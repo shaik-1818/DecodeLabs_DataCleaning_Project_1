@@ -1,6 +1,6 @@
 # 🧹 Project 1: Data Cleaning & Preparation
 **DecodeLabs Industrial Training | Batch 2026**
-**Author:** Shaik | Mohan Babu University (22IT101001)
+**Author:** Shaik | Mohan Babu University 
 
 ---
 
